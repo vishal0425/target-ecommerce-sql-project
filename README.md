@@ -48,7 +48,8 @@ target-ecommerce-sql-project/
 This project uses a publicly available **Target Retail E-Commerce Dataset**, containing real transaction-level data.
 
 ## 📊 ERD Diagram
-my ERD
+![ERD Diagram](outputs/ERD.png)
+
 
 ## 🧪 Key Analyses Performed
 
