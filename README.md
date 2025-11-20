@@ -19,7 +19,8 @@ This project performs a complete end-to-end SQL analysis on a real-world Target 
 - **GitHub** – Project hosting  
 
 ## 🛠️ Project Structure
-'' target-ecommerce-sql-project/
+```
+target-ecommerce-sql-project/
 │
 ├── sql/
 │ ├── 1.database setup.sql
@@ -39,7 +40,8 @@ This project performs a complete end-to-end SQL analysis on a real-world Target 
 │ ├── screenshots
 │ └── charts
 │
-└── README.md '''
+└── README.md
+```
 
 
 ## 🗂️ Dataset Source
