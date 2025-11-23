@@ -10,8 +10,8 @@ This project performs a complete end-to-end SQL analysis on a real-world Target 
 - Evaluate payment methods and revenue contribution  
 - Analyze seller performance  
 - Study customer satisfaction  
-- Track monthly revenue growth and trends  
-
+- Track monthly revenue growth and trends
+  
 ## 🧩 Tech Stack Used
 - **MySQL** – Database & SQL queries  
 - **Python (Pandas + MySQL Connector)** – Data import automation  
