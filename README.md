@@ -1,5 +1,5 @@
 # 🛒 Target E-Commerce SQL Project
-_SQL-based analysis on Target Retail Dataset with ERD, insights, and business solutions._
+_SQL-based analysis on Target Retail Dataset with ERD, insights, and business solutions.
 
 This project performs a complete end-to-end SQL analysis on a real-world Target e-commerce dataset. The goal is to understand customer behavior, order performance, product insights, payments, seller activity, and business growth trends. The dataset contains thousands of records such as customers, orders, products, sellers, geolocations, reviews, and payments.
 
