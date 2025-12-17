@@ -7,7 +7,7 @@ This project performs a complete end-to-end SQL analysis on a real-world Target 
 - Analyze customer behavior and retention 
 - Measure order & delivery performance  
 - Identify top-selling products and categories  
-- Evaluate payment methods and revenue contribution  
+- Evaluate payment methods and revenue contribution
 - Analyze seller performance  
 - Study customer satisfaction  
 - Track monthly revenue growth and trends
